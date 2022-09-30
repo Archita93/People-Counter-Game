@@ -1,0 +1,21 @@
+body{
+    background-image: url(Station.jpg);
+    background-size:cover;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+h1{
+   color:white;
+   background-color:black;
+   font-size: 40px;
+}
+
+h2{
+    color:white;
+    margin-top:0;
+    margin-bottom:20px;
+    font-size: 300px;
+}
+
